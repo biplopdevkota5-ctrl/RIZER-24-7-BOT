@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "cazenp.aternos.me",
-    "port": 47724,
+    "port":47724,
     "version": "",
     "try-creative": false
   },
@@ -34,6 +34,8 @@
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
+        "This server is so good thanks for making it"
+        " the server is 24/7 on wow"
       ]
     },
     "chat-log": true,
